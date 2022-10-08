@@ -13,7 +13,7 @@ import d4 from '../../images/d4.svg';
 import h8 from '../../images/h8.svg';
 import medal from '../../images/medal.svg';
 import star from '../../images/star.svg';
-import prog from '../../images/prog.svg';
+// import prog from '../../images/prog.svg';
 import man from '../../images/mangym.jpg';
 import piman from '../../images/piman.jpg';
 import wgym from '../../images/wgym.jpg';
