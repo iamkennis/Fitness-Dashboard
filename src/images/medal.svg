@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="13" fill="none" viewBox="0 0 11 13">
+  <path fill="#CE4444" d="m4.651 8.066 1.205.696L3.41 13l-.702-1.566 1.944-3.368Z"/>
+  <path fill="#983535" d="m4.651 8.066-1.205-.695L1 11.609l1.707-.175 1.944-3.368Zm1.719 0-1.205.696L7.612 13l.702-1.566L6.37 8.066Z"/>
+  <path fill="#CE4444" d="m6.37 8.066 1.205-.695 2.447 4.238-1.708-.175L6.37 8.066Z"/>
+  <circle cx="5.473" cy="5.148" r="4.648" fill="url(#a)" stroke="#765C00"/>
+  <circle cx="5.474" cy="5.148" r="3.238" fill="#A88300"/>
+  <mask id="b" width="7" height="7" x="2" y="2" maskUnits="userSpaceOnUse" style="mask-type:alpha">
+    <circle cx="5.647" cy="5.494" r="3.246" fill="#C28B37"/>
+  </mask>
+  <g mask="url(#b)">
+    <circle cx="5.474" cy="5.148" r="3.246" fill="#C09525"/>
+  </g>
+  <path fill="url(#c)" d="m2.078 2.89.644 1.4 1.288.176-.884 1.078.24 1.547-1.288-.7-1.288.7.243-1.547-.887-1.078 1.288-.175.644-1.4Z"/>
+  <defs>
+    <linearGradient id="a" x1="5.473" x2="5.473" y1="1" y2="9.297" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFC600"/>
+      <stop offset="1" stop-color="#FFDE69"/>
+    </linearGradient>
+    <linearGradient id="c" x1="2.078" x2="2.078" y1="2.89" y2="7.091" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFCDD"/>
+      <stop offset="1" stop-color="#FFE896"/>
+    </linearGradient>
+  </defs>
+</svg>
